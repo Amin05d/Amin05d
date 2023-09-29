@@ -1315,19 +1315,6 @@ def file():
             
    
 
+menu()
 
 
-
-
-####
-"""
-Mozilla/5.0 (Linux; Android 9.0.1; ALCATEL ONE TOUCH 4030A Build/JRO03C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2821.146 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 8.0.1; ALCATEL ONE TOUCH 4030A Build/JRO03C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.2438.124 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 9.0.1; ALCATEL ONE TOUCH 4030A Build/JRO03C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.2325.100 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 3.1.1; ALCATEL ONE TOUCH 4030A Build/JRO03C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.2737.108 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 8.1.1; ALCATEL ONE TOUCH 4030A Build/JRO03C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.2691.103 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 6.0.1; ALCATEL ONE TOUCH 4030A Build/JRO03C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.2694.86 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 3.1.1; ALCATEL ONE TOUCH 4030A Build/JRO03C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.2854.131 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 9.1.1; ALCATEL ONE TOUCH 4030A Build/JRO03C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2746.80 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 4.1.1; ALCATEL ONE TOUCH 4030A Build/JRO03C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2684.125 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 4.0.1; ALCATEL ONE TOUCH 4030A Build/JRO03C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.2458.89 Mobile 
